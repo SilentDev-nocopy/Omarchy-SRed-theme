@@ -1,0 +1,43 @@
+# Omarchy SRed Theme
+# Palette: black, charcoal, grey and deep burgundy.
+
+mode = "dark"
+
+# Primary interface colors
+accent = "#7D1F32"
+selection = "#3A2028"
+muted = "#777176"
+
+# Background layers
+background = "#0A090A"
+dark_background = "#060506"
+darker_background = "#030303"
+lighter_background = "#191719"
+
+# Text hierarchy
+foreground = "#D0CACE"
+dark_foreground = "#8B8388"
+light_foreground = "#E5DFE2"
+bright_foreground = "#F5F1F3"
+
+# Standard terminal colors
+black = "#0A090A"
+red = "#8F263B"
+green = "#9BA58F"
+yellow = "#C5AD86"
+blue = "#818A9A"
+magenta = "#A36B7A"
+cyan = "#879A9A"
+white = "#D0CACE"
+orange = "#B77A68"
+brown = "#79645F"
+
+# Bright terminal colors
+bright_black = "#777176"
+bright_red = "#B83B52"
+bright_green = "#B5BDAA"
+bright_yellow = "#D7C29F"
+bright_blue = "#A2AAB8"
+bright_magenta = "#C58A99"
+bright_cyan = "#A8B9B8"
+bright_white = "#F5F1F3"
